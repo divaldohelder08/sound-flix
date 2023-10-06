@@ -1,12 +1,13 @@
 /** @type {import('tailwindcss').Config} */
- export const darkMode= ["class"]
- export const content= [
+module.exports = {
+  darkMode: ["class"],
+  content: [
     './pages/**/*.{ts,tsx}',
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-	]
- export const  theme= {
+	],
+  theme: {
     container: {
       center: true,
       padding: "2rem",
@@ -70,6 +71,6 @@
         "accordion-up": "accordion-up 0.2s ease-out",
       },
     },
-  }
- // eslint-disable-next-line no-undef
- export const plugin= [require("tailwindcss-animate")]
+  },
+  plugins: [require("tailwindcss-animate")],
+}

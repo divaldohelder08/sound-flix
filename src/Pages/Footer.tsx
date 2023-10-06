@@ -1,4 +1,4 @@
-import { Shuffle,SkipBack,Play,SkipForward,Repeat } from "lucide-react"
+// import { Shuffle,SkipBack,Play,SkipForward,Repeat } from "lucide-react"
 export default function Footer() {
   return (
     <div className="bg-neutral h-20 border-t border-border px-5 flex items-center justify-between">
