@@ -1,27 +1,32 @@
-# React + TypeScript + Vite
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎧 Sound-Flix..
+Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
-Currently, two official plugins are available:
+## Objectivo
+Descrição breve do seu projeto de streaming de música usando a API do Spotify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- TypeScript
+- Vite
+- Lucide-React
+- Shadcn
+- Outras bibliotecas/frameworks utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+       
+## Por favor deixe uma 🌟
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+<div align="center">
+  <br>
+    <p align="centre">
+      <b>Contagem de visitantes👋</b>
+    </p>  
+    <p align="center">
+      <img align="center" src="https://profile-counter.glitch.me/{sound-flix}/count.svg" />
+    </p> 
+  <br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
