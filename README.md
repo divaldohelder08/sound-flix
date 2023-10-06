@@ -3,17 +3,7 @@
 # 🎧 Sound-Flix..
 Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
-## Recursos Principais
-
-- É possivel a criação de varios usuarios.
-- Criação de tarefas detalhadas
-- Criação e atribuição das mesmas a funcionairos
-- É possivel negar aceitar ou finalizar as tarefas
-- Dashboar para o adm
-- Dashboar para o funcionario
-
-# Nome do Projeto
-
+## Objectivo
 Descrição breve do seu projeto de streaming de música usando a API do Spotify.
 
 ## Tecnologias Utilizadas
@@ -23,27 +13,6 @@ Descrição breve do seu projeto de streaming de música usando a API do Spotify
 - Lucide-React
 - Shadcn
 - Outras bibliotecas/frameworks utilizadas
-
-## Pré-requisitos
-
-Antes de começar, certifique-se de ter os seguintes requisitos instalados:
-
-- Node.js: [Instalação](https://nodejs.org/)
-- Yarn: [Instalação](https://classic.yarnpkg.com/)
-
-## Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-
-
-
-
-
-
-
 
 
        
