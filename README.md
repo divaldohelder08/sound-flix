@@ -21,7 +21,7 @@ Descrição breve do seu projeto de streaming de música usando a API do Spotify
 <div align="center">
   <br>
     <p align="centre">
-      <b>Contagem de visitantes👋</b>
+      <b>Contagem de visitantas👋</b>
     </p>  
     <p align="center">
       <img align="center" src="https://profile-counter.glitch.me/{sound-flix}/count.svg" />
